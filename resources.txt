@@ -1,0 +1,13 @@
+All textures and the ColorPicker were taken from the Unity Asset Store
+All sounds were royalty free from youtube
+
+
+http://www.everyday3d.com/blog/index.php/2010/03/15/3-ways-to-draw-3d-lines-in-unity3d/
+
+https://www.nytimes.com/2017/01/04/arts/design/the-making-of-virtually-real-art-with-googles-tilt-brush.html
+
+https://www.tiltbrush.com/
+
+https://www.youtube.com/watch?v=Bqcu94VuVOI
+
+https://unity3d.com/learn/tutorials/topics/graphics/mesh-renderers-and-mesh-filters
